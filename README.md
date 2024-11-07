@@ -24,12 +24,14 @@
    - Amar Putusan: Rincian hukuman yang dijatuhkan kepada terdakwa, termasuk hukuman penjara dan denda.
   
 🎯 Tujuan Pengumpulan Dataset
+  
   Pengumpulan dataset ini dilakukan dengan mengikuti sejumlah aturan ketat untuk memastikan kualitas data, di antaranya:
     1. Memilih Pengadilan Negeri Semarang sebagai sumber utama putusan untuk tugas ini.
     2. Mengunduh putusan dari kategori PIDANA KHUSUS - Narkotika dan Psikotropika pada situs Direktori Putusan Mahkamah Agung.
     3. Menggunakan putusan yang Belum Berkekuatan Hukum Tetap, sehingga data ini dapat digunakan dalam berbagai eksperimen tanpa risiko konflik hukum.
     
 🚀 Cara Menggunakan Dataset
+  
   Dataset ini sangat berguna bagi para peneliti, pengembang sistem, dan mahasiswa yang ingin memahami lebih dalam tentang teks hukum atau sistem pencarian informasi dalam konteks hukum. Berikut adalah beberapa     aplikasi potensial:
 
   - Sistem Temu Kembali Informasi Hukum: Dataset ini dapat digunakan untuk melatih model pencarian informasi yang secara otomatis mengidentifikasi dan menampilkan putusan yang relevan.
@@ -49,14 +51,17 @@
   └── README.md                   # Dokumentasi repositori dan panduan penggunaan
   
 📌 Panduan untuk Mengakses Data
+  
   Dataset ini tersedia dalam format public di GitHub, sehingga Anda dapat:
  1. Mengunduh secara langsung dengan mengklik pada file Narkotika.zip untuk mengunduh file ZIP yang berisi semua dokumen PDF.
  2. Mengeksplorasi file Excel Overview.xlsx yang menyediakan ringkasan singkat dari setiap dokumen, untuk mempermudah analisis awal.
     
 ⚠️ Catatan Penting
+
 Mohon diingat bahwa data ini disediakan untuk tujuan akademik saja. Pastikan untuk tidak menggunakan data ini di luar kebutuhan akademik atau tanpa izin lebih lanjut.
 
 ✍️ Informasi Anggota Kelompok
+
 Kelompok terdiri dari:
 
 Fernanda Wawang Azraqi - 202110370311004
