@@ -1,8 +1,10 @@
 📄 Dataset Putusan Pengadilan - Kasus Narkotika dan Psikotropika
+  
   Selamat datang di repositori Dataset Putusan Pengadilan Kasus Narkotika dan Psikotropika!
   Repositori ini menyediakan 50 dokumen putusan pengadilan yang telah dikumpulkan dan disusun sebagai bagian dari tugas Temu Kembali Informasi di Universitas Muhammadiyah Malang. Dokumen-dokumen ini berasal dari   situs resmi Direktori Putusan Mahkamah Agung RI dan berfokus pada klasifikasi PIDANA KHUSUS dalam lingkup Narkotika dan Psikotropika dari Pengadilan Negeri Semarang.
 
 🌟 Latar Belakang
+  
   Putusan pengadilan adalah sumber pengetahuan hukum yang berharga. Dalam konteks Temu Kembali Informasi, putusan ini dapat digunakan untuk berbagai tujuan:
  - Pengembangan sistem pencarian informasi hukum yang dapat membantu pengguna menemukan putusan terkait dengan cepat.
  - Analisis teks untuk memahami pola-pola keputusan dalam kasus narkotika.
