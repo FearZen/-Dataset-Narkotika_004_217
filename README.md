@@ -13,10 +13,9 @@
 Pada tugas ini, kami menyusun dataset yang berisi putusan kasus narkotika dari tahun 2022-2024, sehingga Anda dapat langsung memanfaatkannya untuk berbagai kebutuhan analisis data atau penelitian.
 
 <h1>📁 Struktur Dataset</h1>
+
   -  Dataset/Narkotika.zip berisi file ZIP yang memuat 50 dokumen putusan dalam format PDF. Setiap file mengandung informasi lengkap dari sebuah kasus, mulai dari detil kasus hingga amar putusan.
-  
-  -  Overview/Overview.xlsx merupakan file Excel yang berisi ringkasan dari setiap putusan, dengan kolom sebagai berikut:
-  - 
+  -  Overview/Overview.xlsx merupakan file Excel yang berisi ringkasan dari setiap putusan, dengan kolom sebagai berikut: 
     - **No**: Nomor urut putusan.
     - **No Putusan**: Nomor dokumen putusan, misalnya 408/Pid.Sus/2021/PN Smg.
     - **Lembaga Peradilan**: Nama pengadilan yang menangani kasus, yakni Pengadilan Negeri Semarang.
