@@ -41,13 +41,21 @@
 📑 Struktur Folder di Repositori
 
   Dataset-Narkotika_004_217
+  
   │
+  
   ├── Dataset
+  
   │   └── Narkotika.zip           # File ZIP berisi 50 dokumen putusan dalam format PDF
+  
   │
+  
   ├── Overview
+  
   │   └── Overview.xlsx           # Ringkasan putusan dengan detil informasi setiap kasus
+  
   │
+  
   └── README.md                   # Dokumentasi repositori dan panduan penggunaan
   
 📌 Panduan untuk Mengakses Data
