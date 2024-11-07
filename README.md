@@ -8,11 +8,11 @@
   Putusan pengadilan adalah sumber pengetahuan hukum yang berharga. Dalam konteks Temu Kembali Informasi, putusan ini dapat digunakan untuk berbagai tujuan:
  - Pengembangan sistem pencarian informasi hukum yang dapat membantu pengguna menemukan putusan terkait dengan cepat.
  - Analisis teks untuk memahami pola-pola keputusan dalam kasus narkotika.
- - Pengenalan entitas dalam teks hukum untuk mengenali entitas penting seperti nama pengadilan, barang bukti, dan hukuman.
+ - Pengenalan entitas dalam teks hukum untuk mengenali entitas penting seperti nama pengadilan, barang bukti, dan hukuman.<br>
   Pada tugas ini, kami menyusun dataset yang berisi putusan kasus narkotika dari tahun 2022-2024, sehingga Anda dapat langsung memanfaatkannya untuk berbagai kebutuhan analisis data atau penelitian.
 
 <h1>📁 Struktur Dataset</h1>
-  - Dataset/Narkotika.zip
+- Dataset/Narkotika.zip
    Berisi file ZIP yang memuat 50 dokumen putusan dalam format PDF. Setiap file mengandung informasi lengkap dari sebuah kasus, mulai dari detil kasus hingga amar putusan.
 
 - Overview/Overview.xlsx
