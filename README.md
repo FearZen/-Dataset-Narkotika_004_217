@@ -8,20 +8,20 @@
   Putusan pengadilan adalah sumber pengetahuan hukum yang berharga. Dalam konteks Temu Kembali Informasi, putusan ini dapat digunakan untuk berbagai tujuan:
  - Pengembangan sistem pencarian informasi hukum yang dapat membantu pengguna menemukan putusan terkait dengan cepat.
  - Analisis teks untuk memahami pola-pola keputusan dalam kasus narkotika.
- - Pengenalan entitas dalam teks hukum untuk mengenali entitas penting seperti nama pengadilan, barang bukti, dan hukuman.<br>
-  Pada tugas ini, kami menyusun dataset yang berisi putusan kasus narkotika dari tahun 2022-2024, sehingga Anda dapat langsung memanfaatkannya untuk berbagai kebutuhan analisis data atau penelitian.
+ - Pengenalan entitas dalam teks hukum untuk mengenali entitas penting seperti nama pengadilan, barang bukti, dan hukuman.<br><br>
+ 
+Pada tugas ini, kami menyusun dataset yang berisi putusan kasus narkotika dari tahun 2022-2024, sehingga Anda dapat langsung memanfaatkannya untuk berbagai kebutuhan analisis data atau penelitian.
 
 <h1>📁 Struktur Dataset</h1>
-- Dataset/Narkotika.zip
-   Berisi file ZIP yang memuat 50 dokumen putusan dalam format PDF. Setiap file mengandung informasi lengkap dari sebuah kasus, mulai dari detil kasus hingga amar putusan.
+Dataset/Narkotika.zip berisi file ZIP yang memuat 50 dokumen putusan dalam format PDF. Setiap file mengandung informasi lengkap dari sebuah kasus, mulai dari detil kasus hingga amar putusan.
 
-- Overview/Overview.xlsx
-   Merupakan file Excel yang berisi ringkasan dari setiap putusan, dengan kolom sebagai berikut:
-   - No: Nomor urut putusan.
-   - No Putusan: Nomor dokumen putusan, misalnya 408/Pid.Sus/2021/PN Smg.
-   - Lembaga Peradilan: Nama pengadilan yang menangani kasus, yakni Pengadilan Negeri Semarang.
-   - Barang Bukti: Daftar barang bukti yang diajukan dalam kasus, seperti jenis narkotika atau alat terkait.
-   - Amar Putusan: Rincian hukuman yang dijatuhkan kepada terdakwa, termasuk hukuman penjara dan denda.
+Overview/Overview.xlsx merupakan file Excel yang berisi ringkasan dari setiap putusan, dengan kolom sebagai berikut:
+- **No**: Nomor urut putusan.
+- **No Putusan**: Nomor dokumen putusan, misalnya 408/Pid.Sus/2021/PN Smg.
+- **Lembaga Peradilan**: Nama pengadilan yang menangani kasus, yakni Pengadilan Negeri Semarang.
+- **Barang Bukti**: Daftar barang bukti yang diajukan dalam kasus, seperti jenis narkotika atau alat terkait.
+- **Amar Putusan**: Rincian hukuman yang dijatuhkan kepada terdakwa, termasuk hukuman penjara dan denda.
+
   
 <h1>🎯 Tujuan Pengumpulan Dataset</h1>
   
