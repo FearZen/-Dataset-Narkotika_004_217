@@ -43,10 +43,10 @@
   Dataset-Narkotika_004_217<br>
   │<br>
   ├── Dataset<br>
-  │ \u00A0  └── Narkotika.zip           # File ZIP berisi 50 dokumen putusan dalam format PDF<br>
+  │       └── Narkotika.zip           # File ZIP berisi 50 dokumen putusan dalam format PDF<br>
   │<br>
   ├── Overview<br>
-  │   └── Overview.xlsx           # Ringkasan putusan dengan detil informasi setiap kasus<br>
+  │       └── Overview.xlsx           # Ringkasan putusan dengan detil informasi setiap kasus<br>
   │<br>
   └── README.md                   # Dokumentasi repositori dan panduan penggunaan
   
