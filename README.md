@@ -43,7 +43,7 @@
   Dataset-Narkotika_004_217<br>
   │<br>
   ├── Dataset<br>
-  │   └── Narkotika.zip           # File ZIP berisi 50 dokumen putusan dalam format PDF<br>
+  │ '''  └── Narkotika.zip           # File ZIP berisi 50 dokumen putusan dalam format PDF<br>
   │<br>
   ├── Overview<br>
   │   └── Overview.xlsx           # Ringkasan putusan dengan detil informasi setiap kasus<br>
@@ -64,5 +64,5 @@ Mohon diingat bahwa data ini disediakan untuk tujuan akademik saja. Pastikan unt
 
 Kelompok terdiri dari:
 
-Fernanda Wawang Azraqi - 202110370311004
+Fernanda Wawang Azraqi - 202110370311004<br>
 Annisa Artanti Widyadhana - 202110370311217
