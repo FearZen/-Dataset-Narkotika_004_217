@@ -26,9 +26,9 @@ Pada tugas ini, kami menyusun dataset yang berisi putusan kasus narkotika dari t
 <h1>🎯 Tujuan Pengumpulan Dataset</h1>
   
   Pengumpulan dataset ini dilakukan dengan mengikuti sejumlah aturan ketat untuk memastikan kualitas data, di antaranya:<br><br>
-     1. Memilih Pengadilan Negeri Semarang sebagai sumber utama putusan untuk tugas ini.<br>
-     2. Mengunduh putusan dari kategori PIDANA KHUSUS - Narkotika dan Psikotropika pada situs Direktori Putusan Mahkamah Agung.<br>
-     3. Menggunakan putusan yang Belum Berkekuatan Hukum Tetap, sehingga data ini dapat digunakan dalam berbagai eksperimen tanpa risiko konflik hukum.<br>
+  1. Memilih Pengadilan Negeri Semarang sebagai sumber utama putusan untuk tugas ini.<br>
+  2. Mengunduh putusan dari kategori PIDANA KHUSUS - Narkotika dan Psikotropika pada situs Direktori Putusan Mahkamah Agung.<br>
+  3. Menggunakan putusan yang Belum Berkekuatan Hukum Tetap, sehingga data ini dapat digunakan dalam berbagai eksperimen tanpa risiko konflik hukum.<br>
     
 <h1>🚀 Cara Menggunakan Dataset</h1>
   
