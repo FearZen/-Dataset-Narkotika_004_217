@@ -16,11 +16,11 @@ Pada tugas ini, kami menyusun dataset yang berisi putusan kasus narkotika dari t
 
   -  Dataset/Narkotika.zip berisi file ZIP yang memuat 50 dokumen putusan dalam format PDF. Setiap file mengandung informasi lengkap dari sebuah kasus, mulai dari detil kasus hingga amar putusan.
   -  Overview/Overview.xlsx merupakan file Excel yang berisi ringkasan dari setiap putusan, dengan kolom sebagai berikut: 
-    - **No**: Nomor urut putusan.
-    - **No Putusan**: Nomor dokumen putusan, misalnya 408/Pid.Sus/2021/PN Smg.
-    - **Lembaga Peradilan**: Nama pengadilan yang menangani kasus, yakni Pengadilan Negeri Semarang.
-    - **Barang Bukti**: Daftar barang bukti yang diajukan dalam kasus, seperti jenis narkotika atau alat terkait.
-    - **Amar Putusan**: Rincian hukuman yang dijatuhkan kepada terdakwa, termasuk hukuman penjara dan denda.
+     - **No**: Nomor urut putusan.
+     - **No Putusan**: Nomor dokumen putusan, misalnya 408/Pid.Sus/2021/PN Smg.
+     - **Lembaga Peradilan**: Nama pengadilan yang menangani kasus, yakni Pengadilan Negeri Semarang.
+     - **Barang Bukti**: Daftar barang bukti yang diajukan dalam kasus, seperti jenis narkotika atau alat terkait.
+     - **Amar Putusan**: Rincian hukuman yang dijatuhkan kepada terdakwa, termasuk hukuman penjara dan denda.
 
   
 <h1>🎯 Tujuan Pengumpulan Dataset</h1>
